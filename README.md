@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **georgi.tsankoff@gmail.com**
+- 
+Welcome to my GitHub profile! I am a dedicated and inspired frontend developer who has a strong passion for React and its entire ecosystem. Since 2023, I have been studying at SoftUni, immersing myself in the world of web development, and enhancing my skills. I have a solid foundation in HTML, CSS, and JavaScript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
