@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgigeorgievtsankov&label=Profile%20views&color=0e75b6&style=flat" alt="georgigeorgievtsankov" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **georgi.tsankoff@gmail.com**
-- Welcome to my GitHub profile! I am a dedicated and inspired frontend developer who has a strong passion for React and its entire ecosystem. Since 2023, I have been studying at SoftUni, immersing myself in the world of web development, and enhancing my skills. I have a good foundation in HTML, CSS, and JavaScript.
+- Welcome to my GitHub profile! I am a dedicated and inspired frontend developer who has a strong passion for React and its entire ecosystem. Since 2023, I have been studying at SoftUni, immersing myself in the world of web development, and enhancing my skills. I have a good foundation in JavaScript, ReactJS, HTML, Tailwind CSS and CSS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
